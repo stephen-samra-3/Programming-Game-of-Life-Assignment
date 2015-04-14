@@ -1,0 +1,1 @@
+For this assignment you will be required to implement Conway's Game of Life in C#.
